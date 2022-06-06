@@ -1,0 +1,10 @@
+*/target/*
+/.idea
+*/gradle/*
+.gradle/
+*/build/*
+
+# Package Files #
+*.jar
+*.war
+*.ear
